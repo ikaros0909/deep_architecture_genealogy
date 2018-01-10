@@ -1,5 +1,6 @@
 Neural Net Arch Genealogy
 	Reinforcement Learning Algorithms
+		[DQN, '13.00.00](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 		[A3C, '16.02.06](https://arxiv.org/abs/1602.01783)
 		[DARLA, '17.07.26](https://arxiv.org/pdf/1707.08475.pdf)
 		[ACTKR, '17.08.17](https://arxiv.org/pdf/1708.05144.pdf)
